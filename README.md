@@ -1,4 +1,4 @@
-## Monitoramento de Esgotos e Doenças Ciruculantes na cidade do Recife
+## Monitoramento de Esgotos e Doenças Circulantes na cidade do Recife
 
 ### Escopo
 
